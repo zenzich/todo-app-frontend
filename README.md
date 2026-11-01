@@ -1,14 +1,14 @@
 # todo-app-frontend
 
-\_\_\_
+___
 
 frontend for todo-app
 
 
 
-\# start
+# start
 
-\_\_\_
+___
 
 for start frontend use ```npm install``` and ```npm run dev```(you need Node.js)
 
